@@ -8,6 +8,8 @@ The input file is converted using SoX converter and running these commands on th
 sox file.wav inputfile.dat
 ``
 
+inputfile.dat is then used in the program, through command line arguments.
+
 SoX can be downloaded using Homebrew on Mac by running: 
 ``
 brew install sox
